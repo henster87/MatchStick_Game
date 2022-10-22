@@ -1,4 +1,4 @@
-print("The point of this game is to not be the one to remove the last match!\nYou may remove a 1 to 3 matches each turn.\n\nGood luck!")
+print("The point of this game is to not be the one to remove the last match!\nYou may remove 1 to 3 matches each turn.\n\nGood luck!")
 print("\n-------------------------\n")
 
 while True:
